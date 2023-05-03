@@ -12,14 +12,20 @@ const About = () => {
           </div>
           <div></div>
         </div>
-        <div className="text-center max-w-[1000px] w-full grid">
+        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
+          <div className="sm:text-right text-5xl font-bold">
+            <p>I'm Shiraz, nice to meet you.</p>
+          </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
+              I am a recently qualified Full-stack Developer based in Auckland,
+              New Zealand, and I'm excited to continue growing my coding skills
+              and gaining experience in the industry. I'm passionate about
+              working with others and being part of a team, and I'm searching
+              for an opportunity that not only challenges my technical skills,
+              but also allows me to develop my interpersonal skills. For a
+              glimpse of my technical skills and past projects, feel free to
+              browse my portfolio!
             </p>
           </div>
         </div>
