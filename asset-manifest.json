@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shiraz-portfolio/static/css/main.bde15f7f.css",
-    "main.js": "/shiraz-portfolio/static/js/main.641186f6.js",
+    "main.js": "/shiraz-portfolio/static/js/main.635823d7.js",
     "static/media/subminder.png": "/shiraz-portfolio/static/media/subminder.68e6c6451d84b4cb6052.png",
     "static/media/react.png": "/shiraz-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/shiraz-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -12,10 +12,10 @@
     "static/media/javascript.png": "/shiraz-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/shiraz-portfolio/index.html",
     "main.bde15f7f.css.map": "/shiraz-portfolio/static/css/main.bde15f7f.css.map",
-    "main.641186f6.js.map": "/shiraz-portfolio/static/js/main.641186f6.js.map"
+    "main.635823d7.js.map": "/shiraz-portfolio/static/js/main.635823d7.js.map"
   },
   "entrypoints": [
     "static/css/main.bde15f7f.css",
-    "static/js/main.641186f6.js"
+    "static/js/main.635823d7.js"
   ]
 }
