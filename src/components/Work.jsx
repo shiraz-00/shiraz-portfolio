@@ -11,10 +11,15 @@ const Work = () => {
           <p className="py-6">Check out some of my recent projects!</p>
         </div>
 
-        <div className="w-full flex gap-4 items-center">
-          <img className="w-40" src={SubMinder} alt="HTML icon" />
-          <p className="">
-            {' '}
+        <div className="display: flex; align-items: center">
+          <a href="http://specific-url.com">
+            <img
+              className="w-40 cursor-pointer hover:scale-110 duration-500"
+              src={SubMinder}
+              alt="HTML icon"
+            />
+          </a>
+          <p>
             SubMinder is a project I worked on with 5 other developers for our
             final project during our last week at Dev Academy. This app allows
             you to track any subscriptions you have recurring such as netflix,
